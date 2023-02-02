@@ -3,11 +3,7 @@
 
 ## Description
 
-
-
-
-
-
+Webpack is an open-source module bundler for Javascript, and was used to create a text editor that can be found at this [Heroku Deployed Site](https://hidden-harbor-78416.herokuapp.com/). Enjoy!
 
 
 ----
@@ -40,13 +36,21 @@ And to run and build the webpack, I typed the following commands:
 npx webpack; npm run build
 ```
 
-After I did that, the "dist" folder was created. Within that folder, several files were created as well, including an index.html, install.bundle.js, main.bundle.js, manifest.json, and a src-sw.js.  
 
 ---
 
 ## Usage
 
+Below is what appears in the terminal, when the code works properly. 
 
+![npx](./Assets/npxrun.png)
+
+![npmrunbuild](./Assets/npmrunbuild.png)
+
+After I did that, the "dist" folder was created within the "client". Within the "dist" folder, several files were created as well, including an index.html, install.bundle.js, main.bundle.js, manifest.json, and a src-sw.js.  
+
+
+![distfolder](./Assets/distfolder.png)
 
 
 
